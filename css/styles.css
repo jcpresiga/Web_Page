@@ -1,0 +1,74 @@
+body{
+    background: #3a3d47;
+}
+
+.superior{
+    background: #1551a1;
+    overflow: hidden;
+}
+
+.logo{
+    float: left;
+    width: 300px;
+}
+
+.menu{
+    float: left;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.opciones{
+    float: left;
+    list-style: none;
+}
+
+.opciones li a{
+    color: white;
+    padding: 25px;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+.carousel-item > img {
+    margin-left: 200px;
+    width:970px;
+    height:360px;
+    position: relative;
+  }
+
+  .footer{
+    padding-top: 10px;
+  }
+
+.servicios{
+    margin-left: 80px;
+}
+
+.rounded{
+    margin-right: 5px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.footer{
+    margin-top: 5px;
+}
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
