@@ -72,3 +72,9 @@ h1{
     position:absolute;
     }
 
+iframe{
+    padding: 5px;
+    margin-left: 15px;
+    border: 1px solid black;
+    width: 100%;
+}
